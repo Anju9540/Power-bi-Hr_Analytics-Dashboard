@@ -80,27 +80,6 @@ This **HR Analytics Dashboard** provides key insights into employee attrition, s
 
 ---
 
-## 🛠️ Suggested Improvements for the Dashboard
-
-### **1️⃣ Improve Visual Clarity**
-- Use **consistent color schemes** for different categories (e.g., age, salary, job roles).
-- Differentiate **departments** clearly using distinct colors.
-
-### **2️⃣ Add Interactive Features**
-- Implement **drill-through filters** to analyze attrition per department.
-- Enable **hover tooltips** for quick metric insights.
-
-### **3️⃣ Enhance Data Labels & Titles**
-- Ensure **chart labels are more readable**.
-- Add **trendlines** to show patterns in attrition by year.
-
-### **4️⃣ Additional KPIs to Track**
-- **Employee Satisfaction Score** (correlation with attrition).
-- **Average Time to Promotion** per job role.
-- **Department-wise Salary Trends**.
-
----
-
 ## 🚀 Conclusion
 This HR Analytics Dashboard provides **data-driven insights** into workforce trends and attrition patterns. By implementing **strategic HR policies, salary adjustments, and career growth opportunities**, organizations can reduce attrition and improve employee satisfaction.
 
